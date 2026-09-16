@@ -93,3 +93,6 @@ Include an accessible enquiry form collecting name, event date, occasion, locati
 - Three temporary portfolio photographs are third-party copies with visible watermarks and credited makeup. Obtain studio-owned original bridal photographs and confirm reuse permission before public launch. Current photos show one celebrity shoot, not three separate clients.
 - Confirm exact address/service area, +91 country code, live contact links, claims, package inclusions, deposit/cancellation terms and any approved testimonials.
 - Image originals: https://www.gethucinema.com/wp-content/uploads/2024/08/Priyankha-Masthani-13-DdMIO26012.jpg ; https://www.gethucinema.com/wp-content/uploads/2024/08/Priyankha-Masthani-14-4jRLgI9824.jpg ; https://www.gethucinema.com/wp-content/uploads/2024/08/Priyankha-Masthani-15-tPrMcs7106.jpg
+
+## September 16 update
+Added style filters, browser-local favourites, occasion synchronisation and selected look names in WhatsApp enquiries. The two supplied portraits replace the repeated gallery shoot; each of the three displayed photos appears once. The supplied portraits are labelled as inspiration without unverified celebrity identities or studio credits. Review videos remain pending accessible source material.
