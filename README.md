@@ -18,14 +18,15 @@ With Node.js installed, run `node serve.cjs`, then open http://127.0.0.1:4173.
 
 ## Check functionality
 
-Run `node test-look-finder.cjs`. Checks cover filters, favourites, storage failure, occasion synchronisation, WhatsApp message preparation and unique image references. No WhatsApp messages are sent by the checks.
+Run `node test-brand.cjs`. Checks cover filters, favourites, storage failure, occasion synchronisation, WhatsApp message preparation and unique image references. No WhatsApp messages are sent by the checks.
 
 ## Content
 
-- `dist/index.html`: page content
-- `dist/style.css`, `dist/look-finder.css`: responsive styles
-- `dist/look-finder.js`: favourites and enquiry behaviour
+- `build-pages.cjs`: shared page templates; run `node build-pages.cjs` after editing
+- `dist/brand.css`: responsive styles, contact icons and reduced-motion-aware animations
+- `dist/brand.js`: mobile navigation, cross-page favourites and enquiry behaviour
 - `BRAND-BRIEF.md`: brand brief
 - `FEATURE-ROADMAP.md`: proposed features
 
 Review videos need accessible original material. Supplied inspiration portraits are not presented as verified endorsements. Confirm image permissions, business details and package terms before a public business launch.
+

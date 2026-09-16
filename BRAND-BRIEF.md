@@ -96,3 +96,6 @@ Include an accessible enquiry form collecting name, event date, occasion, locati
 
 ## September 16 update
 Added style filters, browser-local favourites, occasion synchronisation and selected look names in WhatsApp enquiries. The two supplied portraits replace the repeated gallery shoot; each of the three displayed photos appears once. The supplied portraits are labelled as inspiration without unverified celebrity identities or studio credits. Review videos remain pending accessible source material.
+
+## Premium multi-page redesign
+Five routes: Home, About Magila, Services, Lookbook and Contact. Plum/ivory editorial identity, responsive navigation, animated social contact buttons and reduced-motion support. Three unique photographs appear once each across the site. Biography remains based on the supplied Instagram profile; no private life or unverified credentials were invented.
